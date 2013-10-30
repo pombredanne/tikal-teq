@@ -1,0 +1,13 @@
+{
+  "name": "ng-closure-runner",
+  "_cacheHeaders": {
+    "ETag": "\"e2dabb7f20d43e97c1cab140ab21455d\"",
+    "Content-Length": "9126",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=ng-closure-runner.zip"
+  },
+  "_release": "e-tag:e2dabb7f2",
+  "_source": "https://raw.github.com/angular/ng-closure-runner/v0.2.2/assets/ng-closure-runner.zip",
+  "_target": "*",
+  "_originalSource": "https://raw.github.com/angular/ng-closure-runner/v0.2.2/assets/ng-closure-runner.zip"
+}
